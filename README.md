@@ -1,0 +1,3 @@
+- 👋 Hi, I’m vasya
+- 👀 I’m interested in some write good code
+- 🌱 I’m currently learning web3
